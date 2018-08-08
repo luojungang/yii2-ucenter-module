@@ -1,0 +1,21 @@
+{
+    "name": "mztest/yii2-ucenter-module",
+    "description": "Yii2 module for integration ucenter.",
+    "license": "MIT",
+    "homepage": "https://github.com/mztest/yii2-ucenter-module",
+    "authors": [
+        {
+            "name": "Guo Xiaosong",
+            "email": "mztester@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mztest\\ucenter\\": ""
+        }
+    }
+}
