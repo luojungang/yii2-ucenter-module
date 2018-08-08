@@ -3,16 +3,16 @@
  * Date: 2017/9/12
  * Time: 14:33
  */
-namespace mztest\ucenter;
+namespace luojungang\ucenter;
 
-use mztest\ucenter\models\UCenterClient;
+use luojungang\ucenter\models\UCenterClient;
 
 class Module extends \yii\base\Module
 {
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'mztest\ucenter\controllers';
+    public $controllerNamespace = 'luojungang\ucenter\controllers';
 
     public $id = 'ucenter';
 

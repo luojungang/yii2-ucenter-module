@@ -4,7 +4,7 @@
  * Time: 17:26
  */
 
-namespace mztest\ucenter\models;
+namespace luojungang\ucenter\models;
 
 use Yii;
 use yii\base\InvalidConfigException;

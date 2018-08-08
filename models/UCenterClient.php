@@ -5,7 +5,7 @@
  * Time: 10:17
  */
 
-namespace mztest\ucenter\models;
+namespace luojungang\ucenter\models;
 
 
 use yii\base\Object;

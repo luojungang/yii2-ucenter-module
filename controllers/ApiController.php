@@ -4,11 +4,11 @@
  * Time: 14:38
  */
 
-namespace mztest\ucenter\controllers;
+namespace luojungang\ucenter\controllers;
 
 use Yii;
 use yii\web\Controller;
-use mztest\ucenter\models\UCenter;
+use luojungang\ucenter\models\UCenter;
 
 class ApiController extends Controller
 {

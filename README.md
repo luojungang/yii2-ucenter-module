@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist mztest/yii2-ucenter-module "*"
+php composer.phar require --prefer-dist luojungang/yii2-ucenter-module "*"
 ```
 
 or add
 
 ```
-"mztest/yii2-ucenter-module": "*"
+"luojungang/yii2-ucenter-module": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -61,7 +61,7 @@ return [
     '...',
     'modules' => [
         'ucenter' => [
-            'class' => 'mztest\ucenter\Module',
+            'class' => 'luojungang\ucenter\Module',
             'configFile' => '@app/config/ucenter.php' // default '@app/config/ucenter.php',
             'userModel' => '\app\models\User',
             'emailAttribute' => 'email',

@@ -1,21 +1,19 @@
 {
-    "name": "mztest/yii2-ucenter-module",
-    "description": "Yii2 module for integration ucenter.",
+    "name": "luojungang/yii2-ucenter-module-master",
+    "type": "project",
     "license": "MIT",
-    "homepage": "https://github.com/mztest/yii2-ucenter-module",
     "authors": [
         {
-            "name": "Guo Xiaosong",
-            "email": "mztester@gmail.com"
-        }
-    ],
+            "name": "luojungang",
+            "email": "99653503@qq.com"
+        }],
     "minimum-stability": "stable",
     "require": {
-        "yiisoft/yii2": "*"
-    },
+        "yiisoft/yii2": "*" 
+    },  
     "autoload": {
         "psr-4": {
-            "mztest\\ucenter\\": ""
-        }
-    }
+            "luojungang\\ucenter\\": ""
+        }   
+    }  
 }
